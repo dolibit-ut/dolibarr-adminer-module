@@ -1,0 +1,24 @@
+# ADMINER MODULE - de_DE
+#
+# Copyright (C) 2019 AXeL
+# Translation (C) 2021 dolibit-UT
+
+#
+# Generic
+#
+Module967000Name = Adminer
+Module967000Desc = Voll funktionsfähiges Datenbank-Management-Tool
+Adminer = Adminer
+AdminerWithIcon = <i class="fa fa-database fa-fw paddingright"></i>Adminer
+AdminerLogin = Anmelde-Informationen
+Server = Server
+Username = Benutzername
+Password = Passwort
+Database = Datenbank
+ShowPassword = anzeigen
+
+#
+# Permissions
+#
+UseAdminer = Adminer verwenden
+Permission656877731 = Adminer verwenden
